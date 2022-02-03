@@ -20,7 +20,6 @@ body{
 .first_nav .main_logo{
     font-size: 1.5rem;
     font-family: 'Freehand', cursive;
-    text-decoration:underline 1px;
     margin: 10px;
     text-align: center;
     color: #022d49;
@@ -71,7 +70,8 @@ hr{
     width: auto;
     height: 30px;
     border-style: none;
-    border-radius: 10px;background-color: rgb(18, 95, 78);
+    border-radius: 10px;
+    background-color: rgb(18, 95, 78);
     color: #FFFF;
     cursor: pointer;
 }
@@ -196,12 +196,10 @@ hr{
 .Front-end{
   list-style:cerle;
   font-size: 25px;
-  text-decoration: underline 2px ;
   margin: 20px;
 }
 .Back-end{
   font-size: 25px;
-  text-decoration: underline 2px ;
   margin: 20px;
 }
 .images_lang{
@@ -242,14 +240,6 @@ footer{
   grid-template-rows: 1fr;
   text-align: center;
   padding-bottom: 10px;
-}
-.last_ul .li {
-  list-style-type: circle;
-}
-.Creator{
-  font-size: 30px;
-  text-decoration: line-through;
-  color: #5e5b5b;
 }
 .facebook , .instagram{
   display: flex;
