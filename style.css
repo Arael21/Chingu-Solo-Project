@@ -235,12 +235,6 @@ footer{
  grid-template-columns: 1fr 1fr;
  display: inline;
 }
-.last_ul{
-  display: grid;
-  grid-template-rows: 1fr;
-  text-align: center;
-  padding-bottom: 10px;
-}
 .facebook , .instagram{
   display: flex;
   display: inline;
